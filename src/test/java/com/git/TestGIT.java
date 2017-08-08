@@ -14,6 +14,7 @@ public class TestGIT {
 		String title = driver.getTitle();
 		System.out.println("Title is : "+title);
 		//Comments added
+		//Comments for JENKINS
 		driver.quit();
 	}
 
